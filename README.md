@@ -20,7 +20,7 @@ Kangichu</a></h1>
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **peternjeru6@live.com**
+- 📫 How to reach me https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white **peternjeru6@live.com**
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 <br/>
