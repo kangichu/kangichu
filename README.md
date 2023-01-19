@@ -10,9 +10,9 @@ Kangichu</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.wizglobal.co.ke/" target="blank">Wizglobal Kenya</a>
+- 🔭 I’m currently working at <a href="https://www.wizglobal.co.ke/" target="blank">Wizglobal Kenya</a>
 
-- 🌱 I’m currently Working on <a href="http://tandish.com"  target="blank">Tandish</a> - Real Estate Web Platform (Laravel Web App)
+- 🌱 I’m currently working on Tandish - Real Estate Web Platform (Laravel Web App) <a href="http://tandish.com"  target="blank"> <img top="300" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
 
 - 🤝 I’m available for freelancing.
 
@@ -20,7 +20,7 @@ Kangichu</a></h1>
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)">  **peternjeru6@live.com**
+- 📫 How to reach me **peternjeru6@live.com**
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 <br/>
