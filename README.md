@@ -12,7 +12,7 @@ Kangichu</a></h1>
 
 - 🔭 I’m currently working at <a href="https://www.wizglobal.co.ke/" target="blank">Wizglobal Kenya</a>
 
-- 🌱 I’m currently working on Tandish - Real Estate Web Platform (Laravel Web App) <a href="http://tandish.com"  target="blank"> <img top="300" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
+- 🌱 I’m currently working on Tandish - Real Estate Web Platform (Laravel Web App) <br/><br/> <a href="http://tandish.com"  target="blank"> <img top="300" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://twitter.com/tandish"  target="blank"> <img top="300" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 
 - 🤝 I’m available for freelancing.
 
