@@ -20,7 +20,7 @@ Kangichu</a></h1>
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **peternjeru6@live.com**
+- 📫 How to reach me **kangichu@tandish.com**
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 <br/>
