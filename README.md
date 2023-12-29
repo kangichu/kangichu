@@ -16,11 +16,7 @@ Kangichu</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Django <a href="https://www.youtube.com/watch?v=F5mRW0jo-U4&t=11648s" target="blank">FreeCodeCamp</a>
-
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **kangichu@tandish.com**
+- 📫 How to reach me **kangichu@tandish.com** or **peternjeru6@live.com**
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 <br/>
