@@ -16,7 +16,7 @@ Kangichu</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 📫 How to reach me **kangichu@tandish.com** or **peternjeru6@live.com**
+- 📫 How to reach me **kangichu@tandish.com**
 
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 <br/>
