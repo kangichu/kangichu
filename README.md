@@ -9,7 +9,7 @@ Kangichu</a></h1>
   <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
   <img align="right" alt="GIF" width="100%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 </a> 
-<br>
+<h1></h1>
 <p>
 - 🌱 I’m currently working on Tandish - Real Estate Web Platform with A.I integration <br/><br/> <a href="https://tandish.com"  target="_blank"> <img top="300" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://twitter.com/tandish"  target="_blank"> <img top="300" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
