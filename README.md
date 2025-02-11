@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/peter-njeru-ab6657b8/" target="blank">
 Kangichu</a></h1>
-<h3 align="center">Senior Full Stack Developer</h3>
+<h3 align="center">Experienced Full Stack Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
 
