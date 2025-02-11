@@ -7,7 +7,7 @@ Kangichu</a></h1>
 
 <a target="_blank" align="center">
   <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
-  <img align="right" alt="GIF" width="100%" height="600" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+  <img align="right" alt="GIF" width="100%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 </a> 
 <h1 align="center">___________________________</h1>
 <p align="center">
