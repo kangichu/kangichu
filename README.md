@@ -2,16 +2,10 @@
 Kangichu</a></h1>
 <h3 align="center">Experienced Full Stack Developer</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
-
-
 <a target="_blank" align="center">
-  <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
   <img align="right" alt="GIF" width="100%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 </a> 
-
-<br /><br \>
-
+<hr>
 <p align="center">
 - 🌱 I’m currently working on Tandish, a cutting-edge real estate web platform integrating A.I. to enhance property discovery, personalized recommendations, and market analysis. The platform simplifies property management for landlords, streamlines the buying and renting process for users, and features interactive tools like a mortgage calculator, virtual tours, and a dynamic map search.</p> 
 
