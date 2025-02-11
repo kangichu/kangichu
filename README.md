@@ -16,7 +16,7 @@ Kangichu</a></h1>
 <a href="https://tandish.com"  target="_blank"> <img top="300" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://twitter.com/tandish"  target="_blank"> <img top="300" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </h1>
 
-🤝 I’m available for freelancing—feel free to reach out at kangichu@tandish.com.
+<h4 align="center">🤝 I’m available for freelancing—feel free to reach out at kangichu@tandish.com.</h4>
 
 </p>
 
