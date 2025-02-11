@@ -8,11 +8,10 @@ Kangichu</a></h1>
 <a target="_blank" align="center">
   <!--<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">-->
   <img align="right" alt="GIF" width="100%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-  <h1 align="center">___________________________</h1>
 </a> 
 
-<p align="center">
-- 🌱 I’m currently working on Tandish, a cutting-edge real estate web platform integrating A.I. to enhance property discovery, personalized recommendations, and market analysis. The platform simplifies property management for landlords, streamlines the buying and renting process for users, and features interactive tools like a mortgage calculator, virtual tours, and a dynamic map search.</p> 
+<h1 align="center">
+- 🌱 I’m currently working on Tandish, a cutting-edge real estate web platform integrating A.I. to enhance property discovery, personalized recommendations, and market analysis. The platform simplifies property management for landlords, streamlines the buying and renting process for users, and features interactive tools like a mortgage calculator, virtual tours, and a dynamic map search.</h1> 
 <h1 align="center">
   <a href="https://www.linkedin.com/company/tandish" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
