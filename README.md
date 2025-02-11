@@ -11,7 +11,9 @@ Kangichu</a></h1>
 </a> 
 <h1 align="center">____________________________________________________</h1>
 <p>
-- 🌱 I’m currently working on Tandish - Real Estate Web Platform with A.I integration <br/><br/> <a href="https://tandish.com"  target="_blank"> <img top="300" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://twitter.com/tandish"  target="_blank"> <img top="300" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+- 🌱 I’m currently working on Tandish, a cutting-edge real estate web platform integrating A.I. to enhance property discovery, personalized recommendations, and market analysis. The platform simplifies property management for landlords, streamlines the buying and renting process for users, and features interactive tools like a mortgage calculator, virtual tours, and a dynamic map search.
+
+ <br/><br/> <a href="https://tandish.com"  target="_blank"> <img top="300" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://twitter.com/tandish"  target="_blank"> <img top="300" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 - 🤝 I’m available for freelancing.
 
