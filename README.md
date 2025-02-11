@@ -6,7 +6,7 @@ Kangichu</a></h1>
   <img align="right" alt="GIF" width="100%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 </a> 
 
-<h1>&nbsp;h1>
+<h1>&nbsp;</h1>
 
 <p align="center">
 - 🌱 I’m currently working on Tandish, a cutting-edge real estate web platform integrating A.I. to enhance property discovery, personalized recommendations, and market analysis. The platform simplifies property management for landlords, streamlines the buying and renting process for users, and features interactive tools like a mortgage calculator, virtual tours, and a dynamic map search.</p> 
