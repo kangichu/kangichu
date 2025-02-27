@@ -2,9 +2,9 @@
 Kangichu</a></h1>
 <h3 align="center">Experienced Full Stack Developer</h3>
 
-<p align="center">
-  <img align="right" alt="GIF" width="100%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-</p>
+<!--<p align="center">
+   <img align="right" alt="GIF" width="100%" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> 
+</p>-->
 
 <h1>&nbsp;</h1>
 
