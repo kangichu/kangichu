@@ -7,7 +7,7 @@ Kangichu</a></h1>
 </p>-->
 
 <p align="center">
-🌱 I’m currently working on Tandish, a cutting-edge property and tenant management platform integrating NLP and semantic searching to enhance property discovery, personalized recommendations, and market analysis. The platform simplifies property and tenant management for landlords, streamlines the buying and renting process for users, and features interactive tools like a mortgage calculator, virtual tours, and a dynamic map search.</p> 
+🌱 I’m currently working on Tandish, a property and tenant management platform integrating NLP and semantic searching to enhance property discovery, personalized recommendations, management and market analysis. The platform simplifies property and tenant management for landlords and streamlines the buying and renting process for users.</p> 
 
 <h1 align="center">
   <a href="https://www.linkedin.com/company/tandish" target="_blank">
